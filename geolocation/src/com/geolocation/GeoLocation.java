@@ -1,4 +1,4 @@
-package com.abssoftware.geolocation;
+package com.geolocation;
 /**
  * 
  * @author Abhijeet
