@@ -1,18 +1,10 @@
-/**
- * 
- */
-package com.abssoftware.geolocation;
-/**
- * 
- * @author Abhijeet
- *
- */
-import java.util.List;
+package com.geolocation;
 
+import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 /**
+ * 
  * @author Abhijeet
  *
  */
